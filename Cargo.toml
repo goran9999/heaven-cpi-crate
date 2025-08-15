@@ -1,0 +1,8 @@
+[package]
+name = "heaven-cpi-crate"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anchor-gen = "0.4.1"
+anchor-lang = "0.31.1"
